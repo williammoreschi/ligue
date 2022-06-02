@@ -30,6 +30,11 @@ $ docker-composer up
 $ yarn typeorm migration:run
 ```
 
+## Rodar os testes
+```
+$ yarn test
+```
+
 ## Parâmetros para o POST
 ```
 {
